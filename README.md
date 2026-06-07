@@ -2,6 +2,8 @@
 
 Browser-based Kanban task manager. Create and organize tasks, manage contacts, and track your workflow — all with drag and drop.
 
+![Preview](docs/preview.png)
+
 ## Live Demo
 
 [join.lutz-boelling.de](https://join.lutz-boelling.de)
